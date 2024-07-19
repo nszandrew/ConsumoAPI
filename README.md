@@ -25,11 +25,6 @@ Project to query the Fipe Table of vehicles (cars, motorcycles, and trucks) via 
     git clone https://github.com/nszandrew/TabelaFIPE_API.git
     ```
 
-2. Instale as dependências / Install the dependencies:
-    ```bash
-    npm install
-    ```
-
 ## Uso / Usage
 
 ### Executar o Menu Principal / Run the Main Menu
@@ -97,6 +92,5 @@ System.out.println("Veiculos filtrados com avaliacoes por ano");
 veiculos.forEach(System.out::println);
 ```
 ## Licença / License
-Distribuído sob a licença MIT. Veja LICENSE para mais informações.
 
 Distributed under the MIT license. See LICENSE for more information.
